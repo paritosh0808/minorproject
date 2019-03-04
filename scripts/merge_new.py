@@ -1,4 +1,4 @@
-filenames = ['basophil.edgelist', 'blood_platelet.edgelist', 'eosinophil.edgelist', 'mast_cell.edgelist', 'monocyte.edgelist', 'neutrophil.edgelist']
+filenames = ['newbasophil.edgelist', 'newblood_platelet.edgelist', 'neweosinophil.edgelist', 'newmast_cell.edgelist', 'newmonocyte.edgelist', 'newneutrophil.edgelist']
 with open('newcombined.edgelist','w') as ofile:
     for fname in filenames:
         with open(fname) as infile:

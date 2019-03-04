@@ -1,8 +1,0 @@
-myeloid_stemcell_NODE data/edgelists/blood_platelet.edgelist
-myeloid_stemcell_NODE data/edgelists/mast_cell.edgelist
-myeloid_stemcell_NODE myeloblast_NODE
-myeloblast_NODE data/edgelists/basophil.edgelist
-myeloblast_NODE data/edgelists/neutrophil.edgelist
-myeloblast_NODE data/edgelists/eosinophil.edgelist
-myeloblast_NODE data/edgelists/monocyte.edgelist
-
