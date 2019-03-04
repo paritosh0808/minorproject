@@ -8,4 +8,4 @@ The "blood-data" folder contains the blood-tissue PPI dataset with the layers an
 
 The "scripts" folder currently contains:
 1. merge.py: Run this in the blood-data/edgelists folder to produce a combined file of all the layers
-2. remove_dup.py: RUn thus in the blood-data/edgelists folder to remove duplicate edgelists
+2. remove_dup.py: Run thus in the blood-data/edgelists folder to remove duplicate edgelists
