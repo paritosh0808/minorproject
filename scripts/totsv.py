@@ -1,6 +1,6 @@
-infile = open('embeddings\\collapsed\\deepwalk\\collapsed.embeddings','r')
-outfile1 = open('embeddings\\collapsed\\deepwalk\\tsvector.tsv','w')
-outfile2 = open('embeddings\\collapsed\\deepwalk\\tsmetadata.tsv','w')
+infile = open('embeddings/collapsed/deepwalk/collapsed.embeddings','r')
+outfile1 = open('embeddings/collapsed/deepwalk/tsvector.tsv','w')
+outfile2 = open('embeddings/collapsed/deepwalk/tsmetadata.tsv','w')
 infile.readline()
 for line in infile:
     linelist = []
