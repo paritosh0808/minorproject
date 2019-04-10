@@ -1,0 +1,6 @@
+1 basophil
+2 blood_platlet
+3 eosinophil
+4 mast_cell
+5 monocyte
+6 neutrophil
